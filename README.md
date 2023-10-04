@@ -1,4 +1,4 @@
-# **Desafio Azure Copmpany - Processando e Transformando Dados com o Power BI**
+# **Desafio Azure Company - Processando e Transformando Dados com o Power BI**
 
 Etapas do desafio:
 1) Criação de instância na **Azure** para **MySQL**;
